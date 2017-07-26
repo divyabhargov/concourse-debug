@@ -8,4 +8,4 @@ inputs:
 
 run:
   path: 'sh'
-  args: ['-c', 'sleep 10']
+  args: ['-c', 'exit 1']
